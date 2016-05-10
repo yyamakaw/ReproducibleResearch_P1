@@ -1,8 +1,9 @@
 ---
 Assignment: Reproducible Research Project 1
-title: "PA_1.Rmd"
+title: "PA_template.Rmd"
 Autor: Yoshiyasu Yamakawa
 Date: 4/28/2016
+resubmit: 5/10/2016
 output: html_document
 ---
 
